@@ -2,4 +2,5 @@
 
 All the PDFs of previous assignments are directly located in our webpage
 
-file:///Users/drew/Documents/GitHub/Drewski-123.github.io/index.html
+Website can be found at:
+https://drewski-123.github.io/
